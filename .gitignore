@@ -1,0 +1,12 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Claude.md
+
+# Raw BRP source data is too large for GitHub.
+data/brp_2025.gpkg
+data/brpgewaspercelen_definitief_2025.gpkg
+
+# Local output folders.
+outputs/

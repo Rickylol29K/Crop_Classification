@@ -1,0 +1,8 @@
+pandas
+geopandas
+matplotlib
+earthengine-api
+geemap
+jupyterlab
+notebook
+ipykernel
