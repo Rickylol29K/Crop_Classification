@@ -6,3 +6,5 @@ geemap
 jupyterlab
 notebook
 ipykernel
+scikit-learn
+streamlit
